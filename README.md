@@ -7,7 +7,7 @@ For example you often see something like:
 - "Gesellschafts- und sonstigen Vermögensbeteiligungen" <- "Gesellschaftsbeteiligungen und sonstigen Vermögensbeteiligungen"
 - "Haarschneide- und -scherapparate" <- "Haarschneideapparate und Haarscherapparate"
 
-This becomes a huge burden for automatic text recognition (e.g. NLP) and all kinds of maschine learning. So this is a PROOF-OF-CONCEPT to remove these Suplemental lines from tests. The first version will work on the first 2 examples but not on the last 2 more difficult onces.
+This becomes a huge burden for automatic text recognition (e.g. NLP) and all kinds of maschine learning. So this is a PROOF-OF-CONCEPT to remove these Suplemental lines from texts. The first version will work on the first 2 examples but not on the last 2 more difficult onces.
 
 
 PS: PROOF-OF-CONCEPT in this context means that I am not a trained programmer and that the published source code does not meet any requirements in terms of performance or readability. It shows an example of a way to solve the problem described, as I have not been able to find any other solution so far. Use of the idea for implementation in software is welcome.
